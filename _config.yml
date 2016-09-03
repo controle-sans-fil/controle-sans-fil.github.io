@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://controle-sans-fil.github.io
+name: controle-sans-fil
+description: l'automatisation industrielle, l'automatisation de l'agriculture et la domotique
+author: controle-sans-fil
+avatar: http://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=120&d=mm&r=g
+ga_domain: controle-sans-fil
+ga_tracking_id: controle-sans-fil
